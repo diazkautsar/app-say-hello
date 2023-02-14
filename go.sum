@@ -2,3 +2,5 @@ github.com/diazkautsar/go-say-hello v1.0.0 h1:Z9fT6dc4zjga8mqhwUGsmuDnK0qCraIPz4
 github.com/diazkautsar/go-say-hello v1.0.0/go.mod h1:KzEiqcaAqaam7/xu+aJbJ+EwQyCk4yjRdrhmLmwe7w4=
 github.com/diazkautsar/go-say-hello v1.2.0 h1:TQmaq0vif4QCz49C2fLsREqhkBOgA+tAp64ptXDrCZ0=
 github.com/diazkautsar/go-say-hello v1.2.0/go.mod h1:KzEiqcaAqaam7/xu+aJbJ+EwQyCk4yjRdrhmLmwe7w4=
+github.com/diazkautsar/go-say-hello/v2 v2.0.0 h1:PHa8bMXbrkNzMFf74fmO5cUS+AAA2zIS9QnBcxll0nE=
+github.com/diazkautsar/go-say-hello/v2 v2.0.0/go.mod h1:Qs0qblevRDRkiV24NmvGEaboBuo7XKHKRzGS+wX7pQM=
